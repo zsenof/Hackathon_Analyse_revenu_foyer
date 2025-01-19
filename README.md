@@ -3,7 +3,8 @@
 
 <p align="justify">
 Dans le cadre de la formation de Data Analyst, le Hackathon 🚀est un événement phare de la Wild Code School. Apprendre à respecter un délai restreint. Gestion du Stress. 
-
+ 
+---
 ## **Objectif** 📊  
 Dans un délai de 48H, gérer au mieux sa mission Data. Cf brief client.
 Dataset Regression Dataset for Household Income Analysis 
